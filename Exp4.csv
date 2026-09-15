@@ -1,0 +1,11 @@
+age,sex,cp,restbp,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,num
+Youth,Male,Yes,High,Active,High,Yes
+SeniorCitizen,Female,No,Medium,Sedetary,BorderLine,No
+MiddleAged,Male,Yes,Low,Moderate,Normal,Yes
+Teen,Female,No,High,Athlete,Normal,No
+SuperSeniorCitizen,Male,Yes,Medium,Sedetary,High,Yes
+Youth,Female,No,Low,Active,BorderLine,No
+SeniorCitizen,Male,Yes,High,Moderate,High,Yes
+MiddleAged,Female,No,Medium,Active,Normal,No
+Teen,Male,Yes,Low,Sedetary,BorderLine,Yes
+SuperSeniorCitizen,Female,No,High,Moderate,High,No
